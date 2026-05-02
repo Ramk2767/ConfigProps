@@ -1,1 +1,1 @@
-"Configuaration  Properties" 
+Configuaration  Properties 
